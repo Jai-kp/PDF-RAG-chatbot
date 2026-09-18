@@ -303,18 +303,6 @@ Exact versions for several packages are specified in `requirements.txt`.
 -   The application processes the uploaded documents for the current
     Streamlit session.
 
-## 🔮 Possible Future Improvements
-
--   Add OCR support for scanned PDFs
--   Persist FAISS indexes between sessions
--   Display source documents and page numbers with each answer
--   Add document-specific filtering
--   Add streaming responses
--   Improve prompt design for more grounded answers
--   Add support for additional document formats
--   Add authentication for multi-user deployment
--   Deploy the application to a cloud platform
--   Add evaluation metrics for retrieval and answer quality
 
 ## 📁 Environment Variables
 
